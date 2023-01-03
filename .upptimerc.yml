@@ -152,6 +152,7 @@ sites:
   - name: DotNet redirect
     url: https://www.animalequality.net
     expectedStatusCodes: [301]
+    maxRedirects: 0
 
   - name: Etalon
     url: $ETALON_URL
