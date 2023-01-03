@@ -1,26 +1,157 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AnimalEquality
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: US
+    url: https://animalequality.org/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: COMMITMENT
+
+  - name: BR
+    url: https://animalequality.org.br/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: VISÃO
+
+  - name: DE
+    url: https://animalequality.de/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: "ist eine internationale"
+
+  - name: ES
+    url: https://igualdadanimal.org/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: VISIÓN
+
+  - name: IN
+    url: https://animalequality.in/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: VISION
+
+  - name: IT
+    url: https://animalequality.it/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: animali
+
+  - name: MX
+    url: https://igualdadanimal.org/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: VISIÓN
+
+  - name: UK
+    url: https://animalequality.org.uk/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: VISION
+
+  - name: Investigations US
+    url: https://animalequality.org/action/babyhell
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: BABYBEL
+
+  - name: Investigations BR
+    url: https://animalequality.org.br/participe/stopfoiegras
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: gras
+
+  - name: Investigations DE
+    url: https://animalequality.de/kampagnen/gadhimai
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Massaker
+
+  - name: Investigations ES
+    url: https://igualdadanimal.org/actua/mataderos
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: firmar
+
+  - name: Investigations IN
+    url: https://animalequality.in/action/prosecute-buffalo-abusers
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: routinely
+
+  - name: Investigations IT
+    url: https://animalequality.it/agisci/supermercati-contro-gabbie
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: gabbia
+
+  - name: Investigations MX
+    url: https://igualdadanimal.mx/actua/mision-sin-jaulas
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: MALTRATO
+
+  - name: Investigations UK
+    url: https://animalequality.org.uk/act/ban-force-feeding
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: importation
+
+    ## Loveveg
+  - name: LoveVeg US
+    url: https://loveveg.com/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Enjoy
+
+  - name: LoveVeg BR
+    url: https://loveveg.com.br
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Love Veg
+
+  - name: LoveVeg DE
+    url: https://loveveg.de
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Entdecke
+
+  - name: LoveVeg ES
+    url: https://es.loveveg.com
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Razones
+
+  - name: LoveVeg IN
+    url: https://loveveg.in
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Enjoy
+
+  - name: LoveVeg IT
+    url: https://it.loveveg.com/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: buono
+
+  - name: LoveVeg MX
+    url: https://loveveg.mx/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Disfruta
+
+  - name: LoveVeg UK
+    url: https://loveveg.uk/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Enjoy
+
+  - name: Cygne
+    url: $CYGNE_URL
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: markets
+
+  - name: Corporate Progress
+    url: https://corporatesocialresponsibility.us/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: responsibility
+
+  - name: Etalon
+    url: $ETALON_URL
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: translation
+
+  - name: VoiceLessFriends
+    url: https://voicelessfriends.org/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: clothes
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: status.animalequality.org
+  baseUrl: /upptime
+  logoUrl: https://static.animalequality.org/logo/ae/us/default.svg
+  name: AnimalEquality websites status
+  introTitle: ''
+  introMessage: ''
   navbar:
     - title: Status
       href: /
