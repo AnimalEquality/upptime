@@ -123,6 +123,22 @@ sites:
     __dangerous__body_degraded: archive.org
     __dangerous__body_down_if_text_missing: Enjoy
 
+  ## Misc
+  - name: Campaign IT
+    url: https://campaigns.animalequality.it/senza-sosta/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: ANIMALI
+
+  - name: Donation ES
+    url: https://igualdadanimal.org/dona/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: DONAR
+
+  - name: MacDo US
+    url: https://truthaboutmcdonaldschicken.com/
+    __dangerous__body_degraded: archive.org
+    __dangerous__body_down_if_text_missing: Welfare
+
   - name: Cygne
     url: $CYGNE_URL
     __dangerous__body_degraded: archive.org
@@ -132,6 +148,10 @@ sites:
     url: https://corporatesocialresponsibility.us/
     __dangerous__body_degraded: archive.org
     __dangerous__body_down_if_text_missing: responsibility
+
+  - name: DotNet redirect
+    url: https://www.animalequality.net
+    expectedStatusCodes: [301]
 
   - name: Etalon
     url: $ETALON_URL
@@ -149,14 +169,9 @@ status-website:
   # cname: status.animalequality.org
   baseUrl: /upptime
   logoUrl: https://static.animalequality.org/logo/ae/us/default.svg
-  name: AnimalEquality websites status
+  name: systems status
   introTitle: ''
   introMessage: ''
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
