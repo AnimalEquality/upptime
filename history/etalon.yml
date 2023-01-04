@@ -1,7 +1,7 @@
 url: $ETALON_URL
-status: down
-code: 502
-responseTime: 336
-lastUpdated: 2023-01-04T17:54:56.468Z
+status: up
+code: 200
+responseTime: 423
+lastUpdated: 2023-01-04T18:49:40.033Z
 startTime: Tue Jan 03 2023 17:38:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
