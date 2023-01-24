@@ -184,19 +184,19 @@
     "url": "https://animalequality.de/kampagnen/gadhimai",
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.de.ico",
     "slug": "investigations-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 607,
-    "timeWeek": 512,
-    "timeMonth": 520,
-    "timeYear": 520,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1146,
+    "timeDay": 6007,
+    "timeWeek": 2323,
+    "timeMonth": 1146,
+    "timeYear": 1146,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 7
     }
   },
   {
