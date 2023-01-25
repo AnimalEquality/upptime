@@ -549,11 +549,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "etalon",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.05%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 837,
     "timeDay": 526,
     "timeWeek": 520,
@@ -569,9 +569,9 @@
     "url": "https://voicelessfriends.org/",
     "icon": "https://icons.duckduckgo.com/ip3/voicelessfriends.org.ico",
     "slug": "voice-less-friends",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -580,6 +580,8 @@
     "timeWeek": 3841,
     "timeMonth": 3597,
     "timeYear": 3597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
