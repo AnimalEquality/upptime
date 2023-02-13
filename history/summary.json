@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.de.ico",
     "slug": "de",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 672,
     "timeDay": 639,
     "timeWeek": 653,
     "timeMonth": 667,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2023-02-13": 2
+      "2023-02-13": 12
     }
   },
   {
@@ -191,10 +191,10 @@
     "url": "https://animalequality.de/kampagnen/gadhimai",
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.de.ico",
     "slug": "investigations-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 894,
@@ -203,6 +203,7 @@
     "timeMonth": 1035,
     "timeYear": 894,
     "dailyMinutesDown": {
+      "2023-02-13": 2,
       "2023-01-24": 7
     }
   },
@@ -339,9 +340,9 @@
     "url": "https://loveveg.de",
     "icon": "https://icons.duckduckgo.com/ip3/loveveg.de.ico",
     "slug": "love-veg-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -350,7 +351,9 @@
     "timeWeek": 640,
     "timeMonth": 649,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-13": 0
+    }
   },
   {
     "name": "LoveVeg ES",
