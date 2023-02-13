@@ -40,10 +40,10 @@
     "url": "https://animalequality.de/",
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.de.ico",
     "slug": "de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
@@ -51,7 +51,9 @@
     "timeWeek": 653,
     "timeMonth": 667,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-13": 2
+    }
   },
   {
     "name": "ES",
@@ -558,11 +560,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "etalon",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.98%",
     "time": 721,
     "timeDay": 546,
     "timeWeek": 573,
