@@ -562,18 +562,19 @@
     "url": "$ETALON_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "etalon",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 714,
     "timeDay": 565,
     "timeWeek": 545,
     "timeMonth": 538,
     "timeYear": 714,
     "dailyMinutesDown": {
+      "2023-02-15": 0,
       "2023-01-10": 543,
       "2023-01-04": 55
     }
