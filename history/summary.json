@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.org.ico",
     "slug": "us",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.93%",
     "time": 300,
     "timeDay": 309,
     "timeWeek": 311,
     "timeMonth": 299,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-04-11": 4
+      "2023-04-11": 100
     }
   },
   {
@@ -168,18 +168,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.org.ico",
     "slug": "investigations-us",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.93%",
     "time": 210,
     "timeDay": 113,
     "timeWeek": 209,
     "timeMonth": 189,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-04-11": 2
+      "2023-04-11": 99
     }
   },
   {
@@ -327,18 +327,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/loveveg.com.ico",
     "slug": "love-veg-us",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.93%",
     "time": 261,
     "timeDay": 175,
     "timeWeek": 262,
     "timeMonth": 242,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-04-11": 1
+      "2023-04-11": 97
     }
   },
   {
@@ -518,18 +518,20 @@
     "url": "https://truthaboutmcdonaldschicken.com/",
     "icon": "https://icons.duckduckgo.com/ip3/truthaboutmcdonaldschicken.com.ico",
     "slug": "mac-do-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 215,
-    "timeWeek": 247,
-    "timeMonth": 213,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
+    "time": 370,
+    "timeDay": 7874,
+    "timeWeek": 2158,
+    "timeMonth": 692,
+    "timeYear": 370,
+    "dailyMinutesDown": {
+      "2023-04-11": 1
+    }
   },
   {
     "name": "Cygne",
