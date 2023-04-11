@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.org.ico",
     "slug": "us",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 300,
     "timeDay": 309,
     "timeWeek": 311,
     "timeMonth": 299,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-04-11": 100
+      "2023-04-11": 107
     }
   },
   {
@@ -169,9 +169,9 @@
     "slug": "investigations-us",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.93%",
     "time": 210,
     "timeDay": 113,
@@ -179,7 +179,7 @@
     "timeMonth": 189,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-04-11": 99
+      "2023-04-11": 106
     }
   },
   {
@@ -328,9 +328,9 @@
     "slug": "love-veg-us",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.93%",
     "time": 261,
     "timeDay": 175,
@@ -338,7 +338,7 @@
     "timeMonth": 242,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-04-11": 97
+      "2023-04-11": 104
     }
   },
   {
@@ -518,19 +518,19 @@
     "url": "https://truthaboutmcdonaldschicken.com/",
     "icon": "https://icons.duckduckgo.com/ip3/truthaboutmcdonaldschicken.com.ico",
     "slug": "mac-do-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 7874,
-    "timeWeek": 2158,
-    "timeMonth": 692,
-    "timeYear": 370,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 520,
+    "timeDay": 10463,
+    "timeWeek": 3656,
+    "timeMonth": 1145,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2023-04-11": 1
+      "2023-04-11": 7
     }
   },
   {
