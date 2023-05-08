@@ -1,7 +1,7 @@
 url: https://igualdadanimal.mx/actua/mision-sin-jaulas
-status: up
-code: 200
-responseTime: 271
-lastUpdated: 2023-05-07T23:05:53.325Z
+status: down
+code: 500
+responseTime: 262
+lastUpdated: 2023-05-08T13:12:18.374Z
 startTime: Tue Jan 03 2023 17:38:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
