@@ -515,19 +515,19 @@
     "url": "https://campaigns.animalequality.it/senza-sosta/",
     "icon": "https://icons.duckduckgo.com/ip3/campaigns.animalequality.it.ico",
     "slug": "campaign-it",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 1218,
-    "timeWeek": 1219,
-    "timeMonth": 904,
-    "timeYear": 804,
+    "time": 806,
+    "timeDay": 1226,
+    "timeWeek": 1221,
+    "timeMonth": 914,
+    "timeYear": 806,
     "dailyMinutesDown": {
-      "2023-08-12": 1
+      "2023-08-12": 6
     }
   },
   {
