@@ -292,10 +292,10 @@
     "url": "https://animalequality.it/agisci/supermercati-contro-gabbie",
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.it.ico",
     "slug": "investigations-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 497,
@@ -304,6 +304,7 @@
     "timeMonth": 508,
     "timeYear": 497,
     "dailyMinutesDown": {
+      "2023-08-14": 1,
       "2023-05-08": 12,
       "2023-03-06": 8
     }
