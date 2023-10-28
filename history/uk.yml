@@ -1,7 +1,7 @@
 url: https://animalequality.org.uk/
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2023-10-27T23:05:51.867Z
+status: down
+code: 500
+responseTime: 439
+lastUpdated: 2023-10-28T20:17:08.520Z
 startTime: 2023-01-03T17:38:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
