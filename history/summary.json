@@ -241,7 +241,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.de.ico",
     "slug": "investigations-de",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -729,7 +729,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "etalon",
     "status": "up",
-    "uptime": "87.88%",
+    "uptime": "87.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "69.41%",
@@ -804,10 +804,10 @@
     "url": "https://voicelessfriends.org/",
     "icon": "https://icons.duckduckgo.com/ip3/voicelessfriends.org.ico",
     "slug": "voice-less-friends",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2883,
@@ -816,6 +816,7 @@
     "timeMonth": 2687,
     "timeYear": 2870,
     "dailyMinutesDown": {
+      "2024-01-05": 1,
       "2023-01-25": 10
     }
   }
