@@ -1,7 +1,7 @@
 url: https://animalequality.it/
-status: up
-code: 200
-responseTime: 499
-lastUpdated: 2024-01-23T13:29:39.873Z
+status: down
+code: 504
+responseTime: 25667
+lastUpdated: 2024-01-23T13:45:01.956Z
 startTime: 2023-01-03T17:38:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
