@@ -409,10 +409,10 @@
     "url": "https://loveveg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/loveveg.com.ico",
     "slug": "love-veg-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 324,
@@ -421,7 +421,7 @@
     "timeMonth": 1150,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-04-12": 10,
+      "2024-04-12": 11,
       "2023-05-24": 25
     }
   },
