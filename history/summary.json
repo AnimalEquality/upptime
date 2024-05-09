@@ -29,10 +29,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.org.br.ico",
     "slug": "br",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
+    "uptime": "99.97%",
+    "uptimeDay": "88.40%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 371,
     "timeDay": 271,
@@ -40,7 +40,7 @@
     "timeMonth": 322,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-05-09": 159,
+      "2024-05-09": 167,
       "2023-10-19": 11,
       "2023-06-01": 4
     }
@@ -211,7 +211,7 @@
     "uptime": "98.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.92%",
+    "uptimeMonth": "70.90%",
     "uptimeYear": "97.57%",
     "time": 421,
     "timeDay": 223,
@@ -219,7 +219,7 @@
     "timeMonth": 2893,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-05-09": 471,
+      "2024-05-09": 479,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
@@ -239,11 +239,11 @@
     "url": "https://animalequality.org.br/participe/stopfoiegras",
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.org.br.ico",
     "slug": "investigations-br",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "89.05%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 284,
     "timeDay": 10076,
@@ -251,7 +251,7 @@
     "timeMonth": 864,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-05-09": 155,
+      "2024-05-09": 157,
       "2024-03-28": 8,
       "2023-10-19": 11
     }
@@ -436,9 +436,9 @@
     "slug": "love-veg-br",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "89.71%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "89.15%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 392,
     "timeDay": 10252,
@@ -446,7 +446,7 @@
     "timeMonth": 958,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-05-09": 148,
+      "2024-05-09": 156,
       "2023-10-19": 11
     }
   },
