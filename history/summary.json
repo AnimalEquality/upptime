@@ -29,10 +29,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.org.br.ico",
     "slug": "br",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
+    "uptime": "99.98%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 371,
     "timeDay": 271,
@@ -40,7 +40,7 @@
     "timeMonth": 322,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-05-09": 89,
+      "2024-05-09": 97,
       "2023-10-19": 11,
       "2023-06-01": 4
     }
@@ -211,15 +211,15 @@
     "uptime": "98.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.08%",
-    "uptimeYear": "97.59%",
+    "uptimeMonth": "71.06%",
+    "uptimeYear": "97.58%",
     "time": 421,
     "timeDay": 223,
     "timeWeek": 879,
     "timeMonth": 2893,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-05-09": 401,
+      "2024-05-09": 409,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
@@ -241,9 +241,9 @@
     "slug": "investigations-br",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 244,
     "timeDay": 178,
@@ -251,7 +251,7 @@
     "timeMonth": 227,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-05-09": 88,
+      "2024-05-09": 95,
       "2024-03-28": 8,
       "2023-10-19": 11
     }
@@ -434,11 +434,11 @@
     "url": "https://loveveg.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/loveveg.com.br.ico",
     "slug": "love-veg-br",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.07%",
+    "uptimeDay": "94.03%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 392,
     "timeDay": 10252,
@@ -446,7 +446,7 @@
     "timeMonth": 958,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-05-09": 85,
+      "2024-05-09": 86,
       "2023-10-19": 11
     }
   },
