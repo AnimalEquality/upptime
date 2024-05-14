@@ -75,11 +75,11 @@
     "url": "https://igualdadanimal.org/",
     "icon": "https://icons.duckduckgo.com/ip3/igualdadanimal.org.ico",
     "slug": "es",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "89.11%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.97%",
     "time": 620,
     "timeDay": 1077,
@@ -87,7 +87,7 @@
     "timeMonth": 636,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-05-14": 144,
+      "2024-05-14": 157,
       "2024-01-18": 10
     }
   },
@@ -155,9 +155,9 @@
     "slug": "mx",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "89.69%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 263,
     "timeDay": 192,
@@ -165,7 +165,7 @@
     "timeMonth": 238,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-05-14": 148,
+      "2024-05-14": 164,
       "2024-01-18": 10,
       "2023-05-23": 7
     }
@@ -210,10 +210,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/animalequality.org.ico",
     "slug": "investigations-us",
     "status": "down",
-    "uptime": "97.17%",
+    "uptime": "97.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.51%",
+    "uptimeMonth": "54.48%",
     "uptimeYear": "96.19%",
     "time": 425,
     "timeDay": 264,
@@ -221,7 +221,7 @@
     "timeMonth": 478,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-05-14": 521,
+      "2024-05-14": 537,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -297,10 +297,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/igualdadanimal.org.ico",
     "slug": "investigations-es",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "89.79%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.66%",
+    "uptime": "99.97%",
+    "uptimeDay": "88.73%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 516,
     "timeDay": 388,
@@ -308,7 +308,7 @@
     "timeMonth": 483,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-05-14": 147
+      "2024-05-14": 162
     }
   },
   {
@@ -491,9 +491,9 @@
     "slug": "love-veg-es",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "89.89%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "88.84%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.96%",
     "time": 540,
     "timeDay": 503,
@@ -501,7 +501,7 @@
     "timeMonth": 499,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2024-05-14": 146,
+      "2024-05-14": 161,
       "2023-12-15": 7,
       "2023-10-19": 54
     }
@@ -709,17 +709,17 @@
     "slug": "donation-es",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.00%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.96%",
     "time": 479,
     "timeDay": 390,
     "timeWeek": 400,
     "timeMonth": 446,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-05-14": 144,
+      "2024-05-14": 159,
       "2024-01-18": 9,
       "2023-11-20": 5,
       "2023-10-19": 12
